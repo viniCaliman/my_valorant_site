@@ -124,7 +124,7 @@ section h3 {
 
 form button {
     background-color: #53212B;
-    color: #ecf0f1;
+    color: #FFFBF5;
     border: none;
     cursor: pointer;
 }
@@ -139,7 +139,11 @@ textarea:focus {
 }
 
 footer {
-    background-color: #182c61;
-    color: #ecf0f1;
+    background-color: #FD4556;
+    color: #FFFBF5;
     padding: 16px 0;
+}
+
+.valorant {
+    font-family: 'VALORANT', sans-serif, cursive;
 }
