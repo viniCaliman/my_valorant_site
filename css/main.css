@@ -35,7 +35,7 @@ header nav li {
 }
 
 header nav li a {
-    color: #ecf0f1;
+    color: #FFFBF5;
     text-decoration: none;
 }
 
@@ -52,22 +52,13 @@ section .container {
     justify-content: space-between;
 }
 
-.brands-list img {
-    height: 24px;
-}
-
-.brands-list li {
-    display: inline;
-    margin-right: 8px;
-}
-
 section .container {
     align-items: flex-start;
 }
 
 section {
     padding: 24px 0;
-    color: #182c61;
+    color: #FFFBF5;
 }
 
 section h2 {
@@ -78,8 +69,9 @@ section p {
     margin-bottom: 8px;
 }
 
-.store-front {
+.valorant-img {
     margin-right: 32px;
+    height: 340px;
 }
 
 .social-medias img {
