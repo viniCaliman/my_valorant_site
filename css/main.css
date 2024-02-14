@@ -103,6 +103,14 @@ form button {
     width: 320px;
     margin-bottom: 8px;
     padding: 8px;
+    background-color: #53212B;
+    color: #FFFBF5;
+}
+
+form input::placeholder,
+form textarea::placeholder,
+form button::placeholder{
+    color: #FFFBF5;
 }
 
 form textarea {
@@ -115,19 +123,19 @@ section h3 {
 }
 
 form button {
-    background-color: #182c61;
+    background-color: #53212B;
     color: #ecf0f1;
     border: none;
     cursor: pointer;
 }
 
 form button:hover {
-    background-color: #314e9e;
+    background-color: #FD4556;
 }
 
 input:focus,
 textarea:focus {
-    outline-color: #182c61;
+    outline-color: #FD4556;
 }
 
 footer {
